@@ -1,0 +1,13 @@
+html, body {
+  font-size: 1.3rem;
+  padding: 70 px;
+  font-family: 'Roboto', sans-serif;
+  background-color: #f1efef;
+  color: rgb(20, 12, 12)
+}
+
+button{
+    padding: 15px;
+    font-size: 1.3rem;
+    margin-right: 5px;
+}
